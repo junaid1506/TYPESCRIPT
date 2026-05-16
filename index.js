@@ -1,3 +1,2 @@
-"use strict";
-var a = 1;
-var a = "Junaid";
+let name = "junaid";
+name = 13;

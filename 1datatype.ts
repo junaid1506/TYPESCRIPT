@@ -24,3 +24,7 @@
 
 
 // this is a comment
+
+let a : number | boolean | string = 10
+a = "hello"
+a = true
